@@ -11,7 +11,7 @@ Using Ionic and various other development tools to develop a enterprise grade, c
   * Potentially Cloud Recording
 * Real-time drawing tools
 
-## Development and Deployment Tools and Tactics
+## Development and Deployment Tools
 ### Ionic
 Cross platform framework focused on UX and UI
 #### Pros
