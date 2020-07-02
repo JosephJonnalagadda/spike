@@ -30,11 +30,15 @@ Cross platform framework for Node.js applications
 * Assortment of APIs and addons
 
 ### Fastlane
+Quickest way to build and deploy apps to marketplaces such as iOS App Store or Android Marketplace
 #### Pros
-* Allows for quick deployment of snapshots to Apple App Store and Android Marketplace
 * Automated code signing, uploading, and changelog
 * Freely switch between betas without reconfiguring Fastlane
 
+#### Cons
+* Cannot automate signing and deployment to macOS App Store
+
 ### Jenkins
+Open source CICD server solution
 #### Pros
-* Open source CI tool that can be integrated with Fastlane
+* Integration with Fastlane
