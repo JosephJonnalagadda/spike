@@ -26,7 +26,7 @@ Cross platform framework for Node.js applications
 * Code splitting using component routing for a faster and more efficient application
 
 ### ElectronJS
-Tool to create a desktop application from an JavaScript
+Tool to create a desktop application for macOS or Windows with JavaScript
 #### Pros
 * Open source solution to build cross-platform desktop apps with JavaScript, HTML, and CSS
 * Assortment of APIs and add ons
